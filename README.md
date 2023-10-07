@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Parastou Fahim
+- 👀 I’m interested in Control Theory, Supervisory Control, Machine Learning, and AI.
+- 🌱 I’m a PhD student in EE at Penn State university.
